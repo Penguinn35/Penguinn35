@@ -1,5 +1,16 @@
-# 💫 About Me:
+
+# 👨‍💻 About Me
+**Frontend Developer | Full-Stack Enthusiast**  
 im currently a final year CS major student, seeking job in software engineer, special in Frontend dev, and fullstack orientation  
+
+---
+
+## 🌟 What I Do
+- 🧠 **Frontend Development**: Crafting modern, responsive web applications  
+- 🚀 **Performance Optimization**: Creating high-performance, SEO-friendly solutions  
+- 🏗️ **System Architecture**: Designing scalable, maintainable solutions  
+
+---
 
 
 # 💻 Tech Stack:
